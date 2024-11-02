@@ -2,7 +2,7 @@ import logo from "./logo512.png";
 const Header = () => {
   return (
     <div>
-      <div className="p-3" style={{ borderBottom: "solid 1px black" }}>
+      <div className="p-3" style={{ borderBottom: "solid 1px white" }}>
         <img
           src={logo}
           alt="react"
